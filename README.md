@@ -8,5 +8,10 @@ works in progress:
 | [unnamed wizard game](https://github.com/heatherspacek/wasm-client-demo) | web software | no-stdlib C | WASM browser game |
 | [cheatsheets](https://github.com/heatherspacek/cheatsheets) | web software | Python, CSS | SSBM study tool |
 | [heatstroke](https://github.com/heatherspacek/heatstroke) | hardware + embedded | C++, CAD | IMU-based glove-mounted HID |
+| [wireless](https://github.com/heatherspacek/gcwireless) [PhobGCC](https://github.com/heatherspacek/gcwireless_bridge) | embedded software | C++ | nRF52 baseband comms for PhobGCC |
+
+"done":
+|Project|||Description|
+|-|-|-|-|
 | [gcc-silly](https://github.com/heatherspacek/gcc-silly-hardware) | hardware | CAD | ergonomic GameCube controller mods |
-| [wireless PhobGCC](https://github.com/heatherspacek) | embedded software | C++ | fast (<1ms) baseband comms for PhobGCC |
+| [wireless-phobgcc-nrf24](https://github.com/heatherspacek/Wireless-PhobGCC-nRF24) | embedded software | C++ | fast (<1ms) baseband comms for PhobGCC |
