@@ -1,16 +1,12 @@
-## Hi there 👋
+https://heatherspacek.com
 
-<!--
-**heatherspacek/heatherspacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+works in progress:
+|Project|||Description|
+|-|-|-|-|
+| [MESS](https://github.com/heatherspacek/mess) ([.anim](https://github.com/heatherspacek/animations)) | desktop software | Python, Rust | SSBM research toolbox |
+| [editre](https://github.com/heatherspacek/editor) | desktop software | Odin | SDL3 text editor |
+| [unnamed wizard game](https://github.com/heatherspacek/wasm-client-demo) | web software | no-stdlib C | WASM browser game |
+| [cheatsheets](https://github.com/heatherspacek/cheatsheets) | web software | Python, CSS | SSBM study tool |
+| [heatstroke](https://github.com/heatherspacek/heatstroke) | hardware + embedded | C++, CAD | IMU-based glove-mounted HID |
+| [gcc-silly](https://github.com/heatherspacek/gcc-silly-hardware) | hardware | CAD | ergonomic GameCube controller mods |
+| [wireless PhobGCC](https://github.com/heatherspacek) | embedded software | C++ | fast (<1ms) baseband comms for PhobGCC |
